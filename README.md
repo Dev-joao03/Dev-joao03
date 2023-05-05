@@ -1,4 +1,4 @@
-## Olá, eu sou o João Pedro Lopes Da Silva 🤙, Estudante de Análise e Desenvolvimento De Sistemas!
+## Olá, eu sou o João Pedro 🤙, Estudante de Análise e Desenvolvimento De Sistemas!
 
 <div>
   
