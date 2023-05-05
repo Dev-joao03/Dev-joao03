@@ -7,6 +7,17 @@
 </div>
 <br>
 
+<div> 
+  <h2> Sobre mim 👦🏻 🖥️</h2>
+  <p> 📅 23 years </p>
+  <p> 📌 São Paulo, SP - Brasil </p>
+  <p> ✍️  Busco novos desafios, pois possuo espírito empreendedor, com skill aguçado para a criatividade e curiosidade. </p>
+  <p> 🎓 Cursando Análise e Des. de Sistemas pela Uninove. </p>
+  <p> 💻 Cursando desenvolvimento web na Udemy.</p>
+  <p> 📃 <a href="https://dev-joao03.github.io/">Meu Portfólio</a>
+  
+</div>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
