@@ -23,6 +23,7 @@
 ## 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-lopes-4b065b223/
+
 Email: jpdrxj@gmail.com
   <p> 📃 <a href="https://dev-joao03.github.io/">Meu Portfólio</a>
   
