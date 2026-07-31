@@ -9,7 +9,7 @@
 
 <div> 
   <h2> Sobre mim 👦🏻 🖥️</h2>
-  <p> 📅 23 years </p>
+  <p> 📅 26 years </p>
   <p> 📌 São Paulo, SP - Brasil </p>
   <p> ✍️  Busco novos desafios, pois possuo espírito empreendedor, com skill aguçado para a criatividade e curiosidade. </p>
   <p> 🎓 Cursando Análise e Des. de Sistemas pela Uninove. </p>
