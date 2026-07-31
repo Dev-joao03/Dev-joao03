@@ -1,19 +1,29 @@
-## Olá, eu sou o João Pedro 🤙, Estudante de Análise e Desenvolvimento De Sistemas!
+# Olá! 👋 Eu sou o João Pedro
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-joao03&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-joao03&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
-<div> 
-  <h2> Sobre mim 👦🏻 🖥️</h2>
-  <p> 📅 26 years </p>
-  <p> 📌 São Paulo, SP - Brasil </p>
-  <p> ✍️  Busco novos desafios, pois possuo espírito empreendedor, com skill aguçado para a criatividade e curiosidade. </p>
-  <p> 🎓 Cursando Análise e Des. de Sistemas pela Uninove. </p>
-  <p> 💻 Cursando desenvolvimento web na Udemy.</p>
+💻 Atualmente estou retomando meus estudos em Desenvolvimento Web, reforçando minha base em HTML, CSS, JavaScript e React.
+
+🚀 Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor e evoluir constantemente através de projetos práticos.
+
+## 🚀 Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- React
+- Node.js
+- TypeScript
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-pedro-lopes-4b065b223/
+Email: jpdrxj@gmail.com
   <p> 📃 <a href="https://dev-joao03.github.io/">Meu Portfólio</a>
   
 </div>
